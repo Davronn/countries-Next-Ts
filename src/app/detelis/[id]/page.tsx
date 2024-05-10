@@ -10,7 +10,7 @@ function Detelis({
 }) {
   return (
     <div>
-      <Header></Header>
+      <Header />
       <div>id {params.id}</div>
     </div>
   );
